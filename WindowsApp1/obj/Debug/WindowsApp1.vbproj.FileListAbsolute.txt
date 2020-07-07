@@ -1,0 +1,12 @@
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Carlos\My Documents\CoS\COMP9\Project 1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
