@@ -8,6 +8,8 @@ Public Class Form1
         Public value As Integer
     End Structure
 
+' creating these in a loop did not allow click events to be added in an array so please
+' forgive the long sections of code that are similarly repeated
     Dim card1 As gameCard
     Dim card2 As gameCard
     Dim card3 As gameCard
